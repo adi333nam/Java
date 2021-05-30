@@ -1,0 +1,14 @@
+credit card number:
+378282246310005
+5105105105105100
+371449635398431
+4012888888881881
+invalid::1138745631774511
+-->website for checking credit card
+https://support.bluesnap.com/docs/test-credit-card-numbers
+
+
+public class JwtTokenUtil implements Serializable----->
+//public static final long JWT_TOKEN_VALIDITY = 5 *60*60   ;
+
+
